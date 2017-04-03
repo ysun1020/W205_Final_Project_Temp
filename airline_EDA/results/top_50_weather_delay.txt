@@ -1,0 +1,52 @@
+year	month	date	origin	origincity	originstate	dest	destcity	deststate	route	weatherdelaymin
+2016    11      2016-11-27      MDW     Chicago, IL     IL      DTW     Detroit, MI     MI      MDW_DTW 1157
+2016    4       2016-04-26      ICT     Wichita, KS     KS      ATL     Atlanta, GA     GA      ICT_ATL 1148
+2016    2       2016-02-15      JFK     New York, NY    NY      RDU     Raleigh/Durham, NC      NC      JFK_RDU 1135
+2016    2       2016-02-24      PHL     Philadelphia, PA        PA      ORD     Chicago, IL     IL      PHL_ORD 1119
+2016    2       2016-02-02      MSP     Minneapolis, MN MN      CMH     Columbus, OH    OH      MSP_CMH 1117
+2016    12      2016-12-16      JFK     New York, NY    NY      EGE     Eagle, CO       CO      JFK_EGE 1097
+2016    1       2016-01-23      DAB     Daytona Beach, FL       FL      ATL     Atlanta, GA     GA      DAB_ATL 1093
+2016    7       2016-07-01      JFK     New York, NY    NY      PHX     Phoenix, AZ     AZ      JFK_PHX 1080
+2016    6       2016-06-06      EYW     Key West, FL    FL      ATL     Atlanta, GA     GA      EYW_ATL 1064
+2016    6       2016-06-06      ATL     Atlanta, GA     GA      EYW     Key West, FL    FL      ATL_EYW 1055
+2016    6       2016-06-10      MSP     Minneapolis, MN MN      ATW     Appleton, WI    WI      MSP_ATW 1055
+2016    12      2016-12-25      MSP     Minneapolis, MN MN      FAR     Fargo, ND       ND      MSP_FAR 1054
+2016    2       2016-02-02      DLH     Duluth, MN      MN      MSP     Minneapolis, MN MN      DLH_MSP 1053
+2016    6       2016-06-12      DFW     Dallas/Fort Worth, TX   TX      MIA     Miami, FL       FL      DFW_MIA 1047
+2016    12      2016-12-17      SLC     Salt Lake City, UT      UT      ORD     Chicago, IL     IL      SLC_ORD 1045
+2016    6       2016-06-28      DCA     Washington, DC  VA      DFW     Dallas/Fort Worth, TX   TX      DCA_DFW 1044
+2016    1       2016-01-24      STT     Charlotte Amalie, VI    VI      JFK     New York, NY    NY      STT_JFK 1043
+2016    7       2016-07-30      BWI     Baltimore, MD   MD      DFW     Dallas/Fort Worth, TX   TX      BWI_DFW 1030
+2016    8       2016-08-29      ORD     Chicago, IL     IL      ATL     Atlanta, GA     GA      ORD_ATL 1028
+2016    7       2016-07-01      JFK     New York, NY    NY      ORD     Chicago, IL     IL      JFK_ORD 1010
+2016    11      2016-11-02      PIA     Peoria, IL      IL      ORD     Chicago, IL     IL      PIA_ORD 990
+2016    11      2016-11-29      DEN     Denver, CO      CO      ASE     Aspen, CO       CO      DEN_ASE 982
+2016    12      2016-12-17      JFK     New York, NY    NY      HNL     Honolulu, HI    HI      JFK_HNL 982
+2016    6       2016-06-18      MIA     Miami, FL       FL      DFW     Dallas/Fort Worth, TX   TX      MIA_DFW 977
+2016    5       2016-05-01      CLT     Charlotte, NC   NC      ATL     Atlanta, GA     GA      CLT_ATL 974
+2016    11      2016-11-18      FSD     Sioux Falls, SD SD      MSP     Minneapolis, MN MN      FSD_MSP 963
+2016    6       2016-06-28      DCA     Washington, DC  VA      ORD     Chicago, IL     IL      DCA_ORD 948
+2016    7       2016-07-01      JFK     New York, NY    NY      ATL     Atlanta, GA     GA      JFK_ATL 947
+2016    5       2016-05-04      EYW     Key West, FL    FL      ATL     Atlanta, GA     GA      EYW_ATL 944
+2016    5       2016-05-25      LAS     Las Vegas, NV   NV      HNL     Honolulu, HI    HI      LAS_HNL 940
+2016    10      2016-10-28      SLC     Salt Lake City, UT      UT      SUN     Sun Valley/Hailey/Ketchum, ID   ID SLC_SUN  936
+2016    12      2016-12-23      ORD     Chicago, IL     IL      MCI     Kansas City, MO MO      ORD_MCI 935
+2016    7       2016-07-19      ATL     Atlanta, GA     GA      FWA     Fort Wayne, IN  IN      ATL_FWA 933
+2016    8       2016-08-11      LGA     New York, NY    NY      DTW     Detroit, MI     MI      LGA_DTW 929
+2016    6       2016-06-06      EYW     Key West, FL    FL      ATL     Atlanta, GA     GA      EYW_ATL 927
+2016    1       2016-01-16      SLC     Salt Lake City, UT      UT      BTM     Butte, MT       MT      SLC_BTM 926
+2016    7       2016-07-23      DTW     Detroit, MI     MI      ORD     Chicago, IL     IL      DTW_ORD 923
+2016    1       2016-01-08      MSP     Minneapolis, MN MN      AZO     Kalamazoo, MI   MI      MSP_AZO 915
+2016    2       2016-02-02      DAY     Dayton, OH      OH      MSP     Minneapolis, MN MN      DAY_MSP 899
+2016    1       2016-01-07      FAR     Fargo, ND       ND      ORD     Chicago, IL     IL      FAR_ORD 898
+2016    5       2016-05-27      IAH     Houston, TX     TX      ORD     Chicago, IL     IL      IAH_ORD 898
+2016    2       2016-02-15      GSO     Greensboro/High Point, NC       NC      ATL     Atlanta, GA     GA      GSO_ATL     897
+2016    9       2016-09-21      MSP     Minneapolis, MN MN      DFW     Dallas/Fort Worth, TX   TX      MSP_DFW 895
+2016    9       2016-09-13      OGG     Kahului, HI     HI      LAX     Los Angeles, CA CA      OGG_LAX 890
+2016    2       2016-02-05      JFK     New York, NY    NY      SEA     Seattle, WA     WA      JFK_SEA 890
+2016    12      2016-12-16      SLC     Salt Lake City, UT      UT      IDA     Idaho Falls, ID ID      SLC_IDA 889
+2016    11      2016-11-27      BNA     Nashville, TN   TN      IAH     Houston, TX     TX      BNA_IAH 886
+2016    11      2016-11-28      BIS     Bismarck/Mandan, ND     ND      DEN     Denver, CO      CO      BIS_DEN 881
+2016    7       2016-07-01      MCO     Orlando, FL     FL      SLC     Salt Lake City, UT      UT      MCO_SLC 877
+2016    12      2016-12-08      PHX     Phoenix, AZ     AZ      PDX     Portland, OR    OR      PHX_PDX 871
+
